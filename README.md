@@ -1,16 +1,49 @@
-## Hi there 👋
+# Darko Ristov
 
-<!--
-**DarkoRist/DarkoRist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Systems Builder • Automation Engineer • Full-Stack Developer
 
-Here are some ideas to get you started:
+I build production-ready AI systems that automate real business workflows — from lead generation pipelines to content engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python • FastAPI • React • Async Systems • Docker • AI APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Lead Generation System
+Automated prospect discovery, enrichment, scoring, and personalized outreach generation.
+
+**Tech:** Python · Streamlit · Claude API · Data Pipelines  
+🔗 https://github.com/DarkoRist/ai-lead-generation-system
+
+---
+
+### 🔹 Content Repurposing Engine
+Transform long-form video or podcasts into **30+ platform-ready content assets** automatically.
+
+**Tech:** FastAPI · React · Docker · Whisper · Celery · Redis  
+🔗 https://github.com/DarkoRist/content-repurposing-engine
+
+---
+
+## 🧠 What I Build
+- AI automation platforms  
+- Async backend systems  
+- Full-stack AI products  
+- Workflow optimization tools  
+
+---
+
+## 📈 Currently Improving
+- Distributed system architecture  
+- Production infrastructure design  
+- System scaling patterns  
+
+---
+
+## 🤝 Open To
+Collaborations • Freelance Projects • Full-Time Opportunities
+
+---
+
+⭐ **Always building. Always shipping.**
